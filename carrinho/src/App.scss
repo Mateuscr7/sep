@@ -1,0 +1,21 @@
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+a{
+  border-radius: 15px;
+  text-decoration: none;
+  cursor: pointer;
+}
+a,text,h1,h2,h3,p,ul,li{
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+//
